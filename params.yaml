@@ -1,0 +1,21 @@
+Data_paths:
+  train_data_path: Raw_data/Data/train
+  test_data_path: Raw_data/Data/test
+
+Log_paths:
+  data_loading: Logs/data_loading.log
+  data_encoding: Logs/data_encoding.log
+  model_creation: Logs/model_creation.log
+  model_evaluation: Logs/model_evaluation.log
+
+Metric_paths:
+  class_names: Metrics/class_names.txt
+  model_summary: Metrics/model_summary.txt
+  training_procedure: Metrics/training_procedure.csv
+  model_evaluation: Metrics/test_data_evaluation.json
+
+Model_paths:
+  model_path: Models
+
+Plot_paths:
+  training_procedure: Plots/Training_over_epochs.png

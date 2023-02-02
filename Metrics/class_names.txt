@@ -1,0 +1,1 @@
+Label 0 corresponds to neg and label 1 corresponds to pos.

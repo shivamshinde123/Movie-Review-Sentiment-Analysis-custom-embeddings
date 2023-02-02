@@ -1,0 +1,27 @@
+2023-02-02 11:25:45,156 : ERROR : evaluate_model.py : Unkown value for `standardize` argument of layer TextVectorization. If restoring a model and `standardize` is a custom callable, please ensure the callable is registered as a custom object. See https://www.tensorflow.org/guide/keras/save_and_serialize#registering_the_custom_object for details. Allowed values are: `None`, a `Callable`, or one of the following values: ('lower_and_strip_punctuation', 'lower', 'strip_punctuation'). Received: custom_standardization
+Traceback (most recent call last):
+  File "C:\Users\shiva\Desktop\NLP projects\NLP sentiment analysis\src\evaluate_model.py", line 56, in evalute_model
+    loaded_model = load_model(model_filepath)
+  File "C:\Users\shiva\AppData\Roaming\Python\Python310\site-packages\keras\utils\traceback_utils.py", line 67, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "C:\Users\shiva\AppData\Roaming\Python\Python310\site-packages\keras\utils\layer_utils.py", line 92, in validate_string_arg
+    raise ValueError(
+ValueError: Unkown value for `standardize` argument of layer TextVectorization. If restoring a model and `standardize` is a custom callable, please ensure the callable is registered as a custom object. See https://www.tensorflow.org/guide/keras/save_and_serialize#registering_the_custom_object for details. Allowed values are: `None`, a `Callable`, or one of the following values: ('lower_and_strip_punctuation', 'lower', 'strip_punctuation'). Received: custom_standardization
+2023-02-02 11:40:53,034 : ERROR : evaluate_model.py : Unkown value for `standardize` argument of layer TextVectorization. If restoring a model and `standardize` is a custom callable, please ensure the callable is registered as a custom object. See https://www.tensorflow.org/guide/keras/save_and_serialize#registering_the_custom_object for details. Allowed values are: `None`, a `Callable`, or one of the following values: ('lower_and_strip_punctuation', 'lower', 'strip_punctuation'). Received: custom_standardization
+Traceback (most recent call last):
+  File "C:\Users\shiva\Desktop\NLP projects\NLP sentiment analysis\src\evaluate_model.py", line 57, in evalute_model
+    loaded_model = load_model(model_filepath)
+  File "C:\Users\shiva\AppData\Roaming\Python\Python310\site-packages\keras\utils\traceback_utils.py", line 67, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "C:\Users\shiva\AppData\Roaming\Python\Python310\site-packages\keras\utils\layer_utils.py", line 92, in validate_string_arg
+    raise ValueError(
+ValueError: Unkown value for `standardize` argument of layer TextVectorization. If restoring a model and `standardize` is a custom callable, please ensure the callable is registered as a custom object. See https://www.tensorflow.org/guide/keras/save_and_serialize#registering_the_custom_object for details. Allowed values are: `None`, a `Callable`, or one of the following values: ('lower_and_strip_punctuation', 'lower', 'strip_punctuation'). Received: custom_standardization
+2023-02-02 18:04:40,639 : ERROR : evaluate_model.py : Unkown value for `standardize` argument of layer TextVectorization. If restoring a model and `standardize` is a custom callable, please ensure the callable is registered as a custom object. See https://www.tensorflow.org/guide/keras/save_and_serialize#registering_the_custom_object for details. Allowed values are: `None`, a `Callable`, or one of the following values: ('lower_and_strip_punctuation', 'lower', 'strip_punctuation'). Received: custom_standardization
+Traceback (most recent call last):
+  File "C:\Users\shiva\Desktop\DESK\NLP projects\NLP sentiment analysis\src\evaluate_model.py", line 57, in evalute_model
+    loaded_model = load_model(model_filepath)
+  File "C:\Users\shiva\anaconda3\lib\site-packages\keras\utils\traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "C:\Users\shiva\anaconda3\lib\site-packages\keras\utils\layer_utils.py", line 101, in validate_string_arg
+    raise ValueError(
+ValueError: Unkown value for `standardize` argument of layer TextVectorization. If restoring a model and `standardize` is a custom callable, please ensure the callable is registered as a custom object. See https://www.tensorflow.org/guide/keras/save_and_serialize#registering_the_custom_object for details. Allowed values are: `None`, a `Callable`, or one of the following values: ('lower_and_strip_punctuation', 'lower', 'strip_punctuation'). Received: custom_standardization

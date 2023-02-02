@@ -1,0 +1,67 @@
+2023-02-02 11:29:34,257 : INFO : prepare_input_data.py : TextVectorization layer created for the integer encoding of input text data.
+2023-02-02 11:29:45,409 : INFO : prepare_input_data.py : Punctuations removed from the input data.
+2023-02-02 11:29:45,409 : INFO : prepare_input_data.py : Unprintable characters removed from the input data.
+2023-02-02 11:29:45,499 : INFO : prepare_input_data.py : English language stopwords removed from the input data.
+2023-02-02 11:29:45,499 : INFO : prepare_input_data.py : All the characters from the input data converted to the lower case.
+2023-02-02 11:29:56,640 : INFO : prepare_input_data.py : TextVectorization layer adapted on the training data.
+2023-02-02 11:29:56,645 : INFO : prepare_input_data.py : Created embeddings for the input integer encoded data.
+2023-02-02 11:29:56,651 : INFO : prepare_input_data.py : Punctuations removed from the input data.
+2023-02-02 11:29:56,652 : INFO : prepare_input_data.py : Unprintable characters removed from the input data.
+2023-02-02 11:29:56,730 : INFO : prepare_input_data.py : English language stopwords removed from the input data.
+2023-02-02 11:29:56,731 : INFO : prepare_input_data.py : All the characters from the input data converted to the lower case.
+2023-02-02 11:29:56,839 : INFO : prepare_input_data.py : Punctuations removed from the input data.
+2023-02-02 11:29:56,840 : INFO : prepare_input_data.py : Unprintable characters removed from the input data.
+2023-02-02 11:29:56,946 : INFO : prepare_input_data.py : English language stopwords removed from the input data.
+2023-02-02 11:29:56,947 : INFO : prepare_input_data.py : All the characters from the input data converted to the lower case.
+2023-02-02 11:30:04,440 : INFO : prepare_input_data.py : Punctuations removed from the input data.
+2023-02-02 11:30:04,442 : INFO : prepare_input_data.py : Unprintable characters removed from the input data.
+2023-02-02 11:30:04,565 : INFO : prepare_input_data.py : English language stopwords removed from the input data.
+2023-02-02 11:30:04,566 : INFO : prepare_input_data.py : All the characters from the input data converted to the lower case.
+2023-02-02 11:30:04,915 : INFO : prepare_input_data.py : Punctuations removed from the input data.
+2023-02-02 11:30:04,915 : INFO : prepare_input_data.py : Unprintable characters removed from the input data.
+2023-02-02 11:30:05,009 : INFO : prepare_input_data.py : English language stopwords removed from the input data.
+2023-02-02 11:30:05,010 : INFO : prepare_input_data.py : All the characters from the input data converted to the lower case.
+2023-02-02 11:30:26,244 : INFO : prepare_input_data.py : Punctuations removed from the input data.
+2023-02-02 11:30:26,245 : INFO : prepare_input_data.py : Unprintable characters removed from the input data.
+2023-02-02 11:30:26,351 : INFO : prepare_input_data.py : English language stopwords removed from the input data.
+2023-02-02 11:30:26,352 : INFO : prepare_input_data.py : All the characters from the input data converted to the lower case.
+2023-02-02 11:35:24,137 : INFO : prepare_input_data.py : Punctuations removed from the input data.
+2023-02-02 11:35:24,140 : INFO : prepare_input_data.py : Unprintable characters removed from the input data.
+2023-02-02 11:35:24,260 : INFO : prepare_input_data.py : English language stopwords removed from the input data.
+2023-02-02 11:35:24,260 : INFO : prepare_input_data.py : All the characters from the input data converted to the lower case.
+2023-02-02 11:35:24,372 : INFO : prepare_input_data.py : Punctuations removed from the input data.
+2023-02-02 11:35:24,373 : INFO : prepare_input_data.py : Unprintable characters removed from the input data.
+2023-02-02 11:35:24,488 : INFO : prepare_input_data.py : English language stopwords removed from the input data.
+2023-02-02 11:35:24,489 : INFO : prepare_input_data.py : All the characters from the input data converted to the lower case.
+2023-02-02 11:35:24,602 : INFO : prepare_input_data.py : Punctuations removed from the input data.
+2023-02-02 11:35:24,603 : INFO : prepare_input_data.py : Unprintable characters removed from the input data.
+2023-02-02 11:35:24,716 : INFO : prepare_input_data.py : English language stopwords removed from the input data.
+2023-02-02 11:35:24,717 : INFO : prepare_input_data.py : All the characters from the input data converted to the lower case.
+2023-02-02 11:35:24,825 : INFO : prepare_input_data.py : Punctuations removed from the input data.
+2023-02-02 11:35:24,826 : INFO : prepare_input_data.py : Unprintable characters removed from the input data.
+2023-02-02 11:35:24,920 : INFO : prepare_input_data.py : English language stopwords removed from the input data.
+2023-02-02 11:35:24,921 : INFO : prepare_input_data.py : All the characters from the input data converted to the lower case.
+2023-02-02 11:35:25,006 : INFO : prepare_input_data.py : Punctuations removed from the input data.
+2023-02-02 11:35:25,007 : INFO : prepare_input_data.py : Unprintable characters removed from the input data.
+2023-02-02 11:35:25,136 : INFO : prepare_input_data.py : English language stopwords removed from the input data.
+2023-02-02 11:35:25,136 : INFO : prepare_input_data.py : All the characters from the input data converted to the lower case.
+2023-02-02 11:35:26,086 : INFO : prepare_input_data.py : Punctuations removed from the input data.
+2023-02-02 11:35:26,088 : INFO : prepare_input_data.py : Unprintable characters removed from the input data.
+2023-02-02 11:35:26,241 : INFO : prepare_input_data.py : English language stopwords removed from the input data.
+2023-02-02 11:35:26,243 : INFO : prepare_input_data.py : All the characters from the input data converted to the lower case.
+2023-02-02 11:35:26,379 : INFO : prepare_input_data.py : Punctuations removed from the input data.
+2023-02-02 11:35:26,380 : INFO : prepare_input_data.py : Unprintable characters removed from the input data.
+2023-02-02 11:35:26,534 : INFO : prepare_input_data.py : English language stopwords removed from the input data.
+2023-02-02 11:35:26,536 : INFO : prepare_input_data.py : All the characters from the input data converted to the lower case.
+2023-02-02 11:35:26,697 : INFO : prepare_input_data.py : Punctuations removed from the input data.
+2023-02-02 11:35:26,699 : INFO : prepare_input_data.py : Unprintable characters removed from the input data.
+2023-02-02 11:35:26,893 : INFO : prepare_input_data.py : English language stopwords removed from the input data.
+2023-02-02 11:35:26,894 : INFO : prepare_input_data.py : All the characters from the input data converted to the lower case.
+2023-02-02 11:35:27,026 : INFO : prepare_input_data.py : Punctuations removed from the input data.
+2023-02-02 11:35:27,027 : INFO : prepare_input_data.py : Unprintable characters removed from the input data.
+2023-02-02 11:35:27,167 : INFO : prepare_input_data.py : English language stopwords removed from the input data.
+2023-02-02 11:35:27,168 : INFO : prepare_input_data.py : All the characters from the input data converted to the lower case.
+2023-02-02 11:35:27,249 : INFO : prepare_input_data.py : Punctuations removed from the input data.
+2023-02-02 11:35:27,250 : INFO : prepare_input_data.py : Unprintable characters removed from the input data.
+2023-02-02 11:35:27,412 : INFO : prepare_input_data.py : English language stopwords removed from the input data.
+2023-02-02 11:35:27,413 : INFO : prepare_input_data.py : All the characters from the input data converted to the lower case.
